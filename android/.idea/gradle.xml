@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="C:/flu/flutter/.pub-cache/hosted/pub.dartlang.org/adhara_socket_io-0.1.10/android" />
+            <option value="C:/flu/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity-0.3.2/android" />
+            <option value="C:/flu/flutter/.pub-cache/hosted/pub.dartlang.org/documents_picker-0.0.3/android" />
+            <option value="C:/flu/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-3.0.1/android" />
+            <option value="C:/flu/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_downloader-0.1.1/android" />
+            <option value="C:/flu/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_local_notifications-0.4.5/android" />
+            <option value="C:/flu/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_string_encryption-0.2.0/android" />
+            <option value="C:/flu/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_webview_plugin-0.3.3/android" />
+            <option value="C:/flu/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-2.2.11/android" />
+            <option value="C:/flu/flutter/.pub-cache/hosted/pub.dartlang.org/geocoder-0.1.0/android" />
+            <option value="C:/flu/flutter/.pub-cache/hosted/pub.dartlang.org/image_cropper-1.0.0/android" />
+            <option value="C:/flu/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.4.12+1/android" />
+            <option value="C:/flu/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-0.4.1/android" />
+            <option value="C:/flu/flutter/.pub-cache/hosted/pub.dartlang.org/share-0.5.3/android" />
+            <option value="C:/flu/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.4.2/android" />
+            <option value="C:/flu/flutter/.pub-cache/hosted/pub.dartlang.org/simple_permissions-0.1.9/android" />
+            <option value="C:/flu/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.0.0/android" />
+            <option value="C:/flu/flutter/.pub-cache/hosted/pub.dartlang.org/video_player-0.6.5/android" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

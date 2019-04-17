@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1016730202904",
+    "firebase_url": "https://spike-77257.firebaseio.com",
+    "project_id": "spike-77257",
+    "storage_bucket": "spike-77257.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016730202904:android:44a0382a1282c40c",
+        "android_client_info": {
+          "package_name": "com.spikeview.spikeviewproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016730202904-2aslq9hjgerp7033l6qk9qtclukbnhop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJF0f3dyLuXp_VttxJ---XvuJEyhiwouk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
